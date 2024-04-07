@@ -1,7 +1,11 @@
 <div align="center">
-  <h1 style="font-size: 50px;">Welcome to Rachel's Fun World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <img src="https://komarev.com/ghpvc/?username=rachellliao&style=flat-square&color=blue" alt="Profile views">
-  <p><img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Image1" width="500"></p>
+  <h1 style="font-size: 50px;">Welcome to Miha's Data Island Adventure! <img src="https://media.giphy.com/media/fhHfNYycDrkXicop89/giphy.gif" width="30px"/></h1>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=miha-tran&color=ff69b4" alt="Profile views">
+</div>
+<div align="center">
+   <p><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ0OXR3ZDA0b3o2ZGVyOGVjbzB0NGE3dGJlbTB1YmJ2YjhuMHRwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Image1" width="500"></p>
 </div>
 
 ## 😊 About Me
