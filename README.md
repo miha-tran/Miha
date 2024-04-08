@@ -10,7 +10,7 @@
 
 ## 😊 About Me
 
-I'm a skilled Accounting & Operations Professional with a passion for data science. With a proven track record as a founding employee in two successful startup operations, I've fostered collaboration among global teams, resulting in increased productivity and positive business outcomes. Now, I'm leveraging my transferable skills and knowledge to transition into data science, focusing on machine learning and predictive analytics.
+Hello, world! I'm an eager Applied Scientist and a passionate entrepreneur ready to dive deep into the exhilarating world of data science! With boundless enthusiasm, I'm gearing up to contribute to impactful projects pushing innovation's boundaries. From unraveling complex datasets to crafting predictive models, I'm thrilled to harness the power of data to drive meaningful change. Get ready to embark on this exciting adventure with me!
 
 ## 👩‍💻 Skills
 <div align="center">
