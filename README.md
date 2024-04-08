@@ -8,11 +8,11 @@
    <p><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ0OXR3ZDA0b3o2ZGVyOGVjbzB0NGE3dGJlbTB1YmJ2YjhuMHRwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Image1" width="500"></p>
 </div>
 
-## 😊 About Me
+## 🐙 About Me
 
 Hello, world! I'm an eager Applied Scientist and a passionate entrepreneur ready to dive deep into the exhilarating world of data science! With boundless enthusiasm, I'm gearing up to contribute to impactful projects pushing innovation's boundaries. From unraveling complex datasets to crafting predictive models, I'm thrilled to harness the power of data to drive meaningful change. Get ready to embark on this exciting adventure with me!
 
-## 👩‍💻 Skills
+## 💎 Skills
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -44,7 +44,7 @@ Hello, world! I'm an eager Applied Scientist and a passionate entrepreneur ready
 
 ![Image2](https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif)
 
-## 🔮 Projects
+## 🍀 Projects
 
 ### Data Scientist | [Crisis Connect: Crisis Response and Management](https://github.com/rachellliao/crisis-response) 🚨
 _OCT 2023_
