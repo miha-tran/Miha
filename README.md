@@ -42,27 +42,24 @@ Hello, world! I'm an eager Applied Scientist and a passionate entrepreneur ready
 - **Machine Learning Frameworks:** `TensorFlow`, `Scikit-learn`, `XGBoost`, `PyTorch`
 - **Big Data Technologies:** `AWS`, `Hadoop`, `Spark`, `Hive`, `Docker`
 
-![Image2](https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif)
+<div align="center">
+   <p><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGExdG9lMWR1NzI0NjVoZGEyOTEyaXU0dXZzbG9tc3liOWswdXRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif" alt="Image1" width="200"></p>
+</div>
 
 ## 🍀 Projects
 
-### Data Scientist | [Crisis Connect: Crisis Response and Management](https://github.com/rachellliao/crisis-response) 🚨
-_OCT 2023_
-- Collaborated with a multidisciplinary team during the Women Who Code Hackathon for Social Good 2023, developing **Crisis Connect** for BC's natural disasters.
-- Conducted in-depth data analysis on natural disaster trends and their impact, using sources like "Our World in Data" and "WorldRiskReport".
+### Data Scientist | [Technology Salaries 2024: Current trend and prediction](https://github.com/miha-tran/Data_Science_Salaries_2024) 💲
+_APR 2024_
+- Capstone project of the BrainStation Data Science Bootcamp.
+- Collected and selected databases for the project.
+- Conducted in-depth data wrangling, analysis, and visualization on the salaries trend in technology position wages for the last 4 years (2020-2024) and worldwide.
 - Developed a platform that promotes real-time interaction, connecting affected individuals directly to emergency services and vital resources.
 - Contributed to a solution that emphasizes community interactions, real-time updates, and direct resource connections for expedited post-crisis recovery.
 <img src="https://github.com/rachellliao/rachellliao/blob/defb3db08e37a4c6c449ad8fa47d4c2f960d2205/image/6.%20WWC%20Crisis%20Connect.png" alt="Project6" width="450" height="230">
 
-### Data Scientist | [Predicting Loan Default with A Machine Learning Approach: Paycast](https://github.com/rachellliao/loan-payment-status-prediction) 💰
-_AUG 2023_
-- Implemented data cleaning and preprocessing on an extensive dataset.
-- Explored relationships and insights using Exploratory Data Analysis.
-- Trained and evaluated models, including Logistic Regression, Decision Tree, Random Forest and XGBoost, for accurate loan default prediction.
-- Gained valuable insights into risk management, lending behaviours, and financial decision-making.
-<img src="https://github.com/rachellliao/rachellliao/blob/340b4cbb4a288d611e1604c053801e60aa40dc08/image/5.%20Loan%20Default%20Prediction.png" alt="Project5" width="400" height="250">
 
-### Data Scientist | [User-Centric AI Education: Google A.I.](https://github.com/rachellliao/google-24hr-hackathon) 🤖
+### Data Scientist | [LUSH](https://github.com/rachellliao/google-24hr-hackathon) <img width="106" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/d935beee-5202-46f3-bf4a-1373a675844a">
+
 _JULY 2023_
 - Collaborated with a diverse team during a 24-hour Hackathon sponsored by BrainStation and Google. Leveraged cross-functional teamwork, combining expertise in data science, UX/UI, and software engineering.
 - Conducted comprehensive market research to understand the current gaps and needs related to AI education and used the insights from the research as a foundation to build a user-centric solution.
@@ -86,7 +83,7 @@ _JULY 2023_
 - Implemented regression predictive modeling to understand mosquito tracking data.
 <img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/2.%20Virus%20Spread.png" alt="Project2" width="450" height="260">
 
-### Data Analyst | Trend Analysis and Visualization of Bixi Bike Usage 🚲
+### Data Analyst | Help to insight for a boardgame in decision to Kickstarter fundraising 💰
 _JUNE 2023_
 - Integrated in-depth data analysis, interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to reveal trends and behaviours in Bixi bike usage.
 - Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
@@ -96,9 +93,9 @@ _JUNE 2023_
 
 ## 🤝 Connect with Me
 
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/minh-hai]).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/minh-hai).
 
-![Image3](https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif)
+![Image3](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN291bWkwcXRsOXlmZm5pdDRjaHh2cWdtbXJoOW55ZGk0ZDQ0bDlnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adM1FEGALvsLS/giphy.gif)
 
 ---
 
