@@ -98,7 +98,7 @@ _JAN 2024_
 - Crafted an insightful visualization dashboard with explaination for the business insights recommending to co founder who want to raise first $15,000
 - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<![image](https://github.com/miha-tran/Miha/assets/149928007/8cb8faad-5567-4d80-b4a1-d5cba6d944b0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="145" alt="Project6"![image](https://github.com/miha-tran/Miha/assets/149928007/8cb8faad-5567-4d80-b4a1-d5cba6d944b0)
 >
 
 ## 🤝 Connect with Me
