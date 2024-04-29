@@ -62,7 +62,7 @@ _APR 2024_
 ### Data Scientist | [LUSH Fresh Handmade Cosmetics](https://github.com/miha-tran/LUSH_Sale_Enfor) <img width="30" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/d935beee-5202-46f3-bf4a-1373a675844a">
 
 _JULY 2023_
-- Collaborated with a diverse team during a 24-hour Hackathon sponsored by BrainStation and Google. Leveraged cross-functional teamwork, combining expertise in data science, UX/UI, and software engineering.
+- Collaborated with a diverse team during a 24-hour Hackathon sponsored by BrainStation and Google. Leveraged cross-functional teamwork, combining expertise in data science and web dev.
 - Conducted comprehensive market research to understand the current gaps and needs related to AI education and used the insights from the research as a foundation to build a user-centric solution.
 - Implemented data analysis to refine the approach and validate the strategies.
 - Developed an innovative solution to educate users about new AI-related product features by prioritizing user control and empowerment as part of the educational experience.
@@ -77,21 +77,29 @@ _JULY 2023_
 - Improved conversion rate by understanding customer sentiments.
 <img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/3.%20Hotel%20Reviews.png" alt="Project3" width="410" height="230">
 
-### Data Analyst | Predictive Analysis of West Nile Virus Spread 🦟
+### Data Analyst | Statistics & Public Health  🦟
 _JULY 2023_
+- Predictive Analysis of West Nile Virus Spread at any particular time and location.
 - Employed ETL processes to prepare mosquito tracking data for analysis.
 - Leveraged statistical knowledge to analyze West Nile Virus spread through extensive exploratory data analysis.
 - Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test).
 - Implemented regression predictive modeling to understand mosquito tracking data.
 <img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/2.%20Virus%20Spread.png" alt="Project2" width="450" height="260">
 
-### Data Analyst | Help to insight for a boardgame in decision to Kickstarter fundraising 💰
-_JUNE 2023_
-- Integrated in-depth data analysis, interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to reveal trends and behaviours in Bixi bike usage.
+### Data Analyst | Air traffic project ✈️
+_FEB 2024_
+- Integrated in-depth data analysis,interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to answer questions from BrainStation Mutual Fund and the fund managers to invest in one of three major airline stocks using the provided flight and airport data along with concise and clear explainations.
 - Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
+
+
+### Data Analyst | Help to insight for a boardgame in decision to Kickstarter fundraising 💰
+_JAN 2024_
+- Integrated in-depth data analysis, interactive Power BI visualizations, and proficient SQL querying for exploratory analysis to understand the fundraising trend for board game in Kickstarter.
+- Crafted an insightful visualization dashboard with explaination for the business insights recommending to co founder who want to raise first $15,000
 - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/1.%20Bike%20Usage.png" alt="Project1" width="380" height="260">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<![image](https://github.com/miha-tran/Miha/assets/149928007/8cb8faad-5567-4d80-b4a1-d5cba6d944b0)
+>
 
 ## 🤝 Connect with Me
 
