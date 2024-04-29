@@ -50,46 +50,46 @@ Hello, world! I'm an eager Applied Scientist and a passionate entrepreneur ready
 
 ### Data Scientist | [Technology Salaries 2024: Current trend and prediction](https://github.com/miha-tran/Data_Science_Salaries_2024) 💲
 _APR 2024_
-- Capstone project of the BrainStation Data Science Bootcamp.
-- Collected and selected databases for the project.
-- Conducted in-depth data wrangling, analysis, and visualization on the salaries trend in technology position wages for the last 4 years (2020-2024) and worldwide.
-- Developed a platform that promotes real-time interaction, connecting affected individuals directly to emergency services and vital resources.
-- Contributed to a solution that emphasizes community interactions, real-time updates, and direct resource connections for expedited post-crisis recovery.
+- Performed comprehensive data wrangling, analysis, and visualization to examine salary trends in technology positions globally over the past four years (2020-2024).
+- Designed a platform facilitating real-time interaction, connecting individuals with emergency services and essential resources.
+- Contributed to a solution emphasizing community engagement, real-time updates, and direct access to resources for efficient post-crisis recovery.
 <img width="329" height="230" alt="Project1"  src="https://github.com/miha-tran/Miha/assets/149928007/c3584d2d-8bd2-4518-85a0-68e07b2f5539">
 
 
 
 ### Data Scientist | [LUSH Fresh Handmade Cosmetics](https://github.com/miha-tran/LUSH_Sale_Enfor) <img width="30" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/d935beee-5202-46f3-bf4a-1373a675844a">
 
-_JULY 2023_
-- Collaborated with a diverse team during a 24-hour Hackathon sponsored by BrainStation and Google. Leveraged cross-functional teamwork, combining expertise in data science and web dev.
-- Conducted comprehensive market research to understand the current gaps and needs related to AI education and used the insights from the research as a foundation to build a user-centric solution.
-- Implemented data analysis to refine the approach and validate the strategies.
-- Developed an innovative solution to educate users about new AI-related product features by prioritizing user control and empowerment as part of the educational experience.
+_MAR 2024_
+- Collaborated with a diverse team in a 24-hour Hackathon sponsored by BrainStation and Google, utilizing cross-functional teamwork merging expertise in data science and web development.
+- Conducted comprehensive market research and implemented data analysis to refine and validate strategies, revealing insights into sustainable market forces.
+- Summarized data insights and provided clear recommendations for market programs, focusing on "plastic-free" packaging and green ingredients for Halah Cosmetics, based on public databases.
+- Built prediction models for sustainable trends and utilized LLM to evaluate LUSH's performance based on customer reviews.
+
 <img width="145" alt="Project2" src="https://github.com/miha-tran/Miha/assets/149928007/ade9d0bf-153e-4d5a-a0d7-b8e867af1b87">
 
 
-### Data Scientist | Sentiment Analysis on Hotel Reviews 🏨
-_JULY 2023_
-- Implemented topic modeling and sentiment analysis for user reviews.
-- Focused on feature engineering and natural language processing techniques.
-- Employed classification models to gain insights into user behaviour.
-- Improved conversion rate by understanding customer sentiments.
-<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/3.%20Hotel%20Reviews.png" alt="Project3" width="410" height="230">
+### Data Scientist | Enhancing Customer Satisfaction with Hotel review 🏨
+_MAR 2024_
+- Utilized feature engineering and natural language processing methods, including topic modeling and sentiment analysis, to analyze user reviews.
+- Implemented classification models to understand user behavior, ultimately enhancing conversion rates through insights into customer sentiments
+<img width="808" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/578b75d8-6783-482c-972f-0f50108fd114">
+
 
 ### Data Analyst | Statistics & Public Health  🦟
-_JULY 2023_
-- Predictive Analysis of West Nile Virus Spread at any particular time and location.
-- Employed ETL processes to prepare mosquito tracking data for analysis.
-- Leveraged statistical knowledge to analyze West Nile Virus spread through extensive exploratory data analysis.
-- Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test).
-- Implemented regression predictive modeling to understand mosquito tracking data.
-<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/2.%20Virus%20Spread.png" alt="Project2" width="450" height="260">
+_FEB 2024_
+- Conducted predictive analysis of West Nile Virus spread, leveraging statistical methods and Python visualization tools.
+- Prepared mosquito tracking data using ETL processes for analysis of virus spread dynamics.
+- Implemented regression modeling to gain insights into mosquito behavior and virus spread patterns.
+<img width="289" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/161de19e-995d-424c-bb41-51cd35b036dc">
+
+
+
 
 ### Data Analyst | Air traffic project ✈️
 _FEB 2024_
 - Integrated in-depth data analysis,interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to answer questions from BrainStation Mutual Fund and the fund managers to invest in one of three major airline stocks using the provided flight and airport data along with concise and clear explainations.
 - Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
+<img width="502" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/e6ccb328-23ba-49c3-abcf-89dda5545297">
 
 
 ### Data Analyst | Help to insight for a boardgame in decision to Kickstarter fundraising 💰
@@ -97,7 +97,8 @@ _JAN 2024_
 - Integrated in-depth data analysis, interactive Power BI visualizations, and proficient SQL querying for exploratory analysis to understand the fundraising trend for board game in Kickstarter.
 - Crafted an insightful visualization dashboard with explaination for the business insights recommending to co founder who want to raise first $15,000
 - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
-  <img width="514" alt="Project6" src="https://github.com/miha-tran/Miha/assets/149928007/934179a8-baa3-4d44-9b1d-cf804b03bb1b">
+  
+<img width="250" alt="Project6" src="https://github.com/miha-tran/Miha/assets/149928007/934179a8-baa3-4d44-9b1d-cf804b03bb1b">
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
