@@ -65,7 +65,8 @@ _JULY 2023_
 - Conducted comprehensive market research to understand the current gaps and needs related to AI education and used the insights from the research as a foundation to build a user-centric solution.
 - Implemented data analysis to refine the approach and validate the strategies.
 - Developed an innovative solution to educate users about new AI-related product features by prioritizing user control and empowerment as part of the educational experience.
-<img src="https://github.com/rachellliao/rachellliao/blob/1f90ebf687ab692a2e49997e0bf6c068252e11e6/image/4.%20Google%20A.I..png" alt="Project4" width="400" height="250">
+<img width="145" alt="Project2" src="https://github.com/miha-tran/Miha/assets/149928007/ade9d0bf-153e-4d5a-a0d7-b8e867af1b87">
+
 
 ### Data Scientist | Sentiment Analysis on Hotel Reviews 🏨
 _JULY 2023_
