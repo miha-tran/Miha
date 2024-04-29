@@ -55,10 +55,11 @@ _APR 2024_
 - Conducted in-depth data wrangling, analysis, and visualization on the salaries trend in technology position wages for the last 4 years (2020-2024) and worldwide.
 - Developed a platform that promotes real-time interaction, connecting affected individuals directly to emergency services and vital resources.
 - Contributed to a solution that emphasizes community interactions, real-time updates, and direct resource connections for expedited post-crisis recovery.
-<img src="https://github.com/rachellliao/rachellliao/blob/defb3db08e37a4c6c449ad8fa47d4c2f960d2205/image/6.%20WWC%20Crisis%20Connect.png" alt="Project6" width="450" height="230">
+<img width="329" height="230" alt="Project1"  src="https://github.com/miha-tran/Miha/assets/149928007/c3584d2d-8bd2-4518-85a0-68e07b2f5539">
 
 
-### Data Scientist | LUSH Fresh Handmade Cosmetics (https://github.com/miha-tran/LUSH_Sale_Enfor) <img width="30" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/d935beee-5202-46f3-bf4a-1373a675844a">
+
+### Data Scientist | [LUSH Fresh Handmade Cosmetics](https://github.com/miha-tran/LUSH_Sale_Enfor) <img width="30" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/d935beee-5202-46f3-bf4a-1373a675844a">
 
 _JULY 2023_
 - Collaborated with a diverse team during a 24-hour Hackathon sponsored by BrainStation and Google. Leveraged cross-functional teamwork, combining expertise in data science, UX/UI, and software engineering.
