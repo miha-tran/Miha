@@ -58,7 +58,7 @@ _APR 2024_
 <img src="https://github.com/rachellliao/rachellliao/blob/defb3db08e37a4c6c449ad8fa47d4c2f960d2205/image/6.%20WWC%20Crisis%20Connect.png" alt="Project6" width="450" height="230">
 
 
-### Data Scientist | [LUSH](https://github.com/miha-tran/LUSH_Sale_Enfor) <img width="106" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/d935beee-5202-46f3-bf4a-1373a675844a">
+### Data Scientist | (https://github.com/miha-tran/LUSH_Sale_Enfor) <img width="50" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/d935beee-5202-46f3-bf4a-1373a675844a">
 
 _JULY 2023_
 - Collaborated with a diverse team during a 24-hour Hackathon sponsored by BrainStation and Google. Leveraged cross-functional teamwork, combining expertise in data science, UX/UI, and software engineering.
