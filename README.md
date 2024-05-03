@@ -92,7 +92,7 @@ _FEB 2024_
 <img width="502" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/e6ccb328-23ba-49c3-abcf-89dda5545297">
 
 
-### Data Analyst | Help to insight for a boardgame in decision to Kickstarter fundraising 💰
+### Data Analyst | Insights for a crowd fundraising 💰
 _JAN 2024_
 - Integrated in-depth data analysis, interactive Power BI visualizations, and proficient SQL querying for exploratory analysis to understand the fundraising trend for board game in Kickstarter.
 - Crafted an insightful visualization dashboard with explaination for the business insights recommending to co founder who want to raise first $15,000
