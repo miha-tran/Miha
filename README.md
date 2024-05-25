@@ -60,7 +60,7 @@ _APR 2024_
 ### Data Scientist | [LUSH Fresh Handmade Cosmetics](https://github.com/miha-tran/LUSH_Sale_Enfor) <img width="30" alt="image" src="https://github.com/miha-tran/Miha/assets/149928007/d935beee-5202-46f3-bf4a-1373a675844a">
 
 _MAR 2024_
-- Collaborated with a diverse team in a 24-hour Hackathon sponsored by BrainStation and Google, utilizing cross-functional teamwork merging expertise in data science and web development.
+- Collaborated with a diverse team in a 24-hour Hackathon sponsored by BrainStation and LUSH, utilizing cross-functional teamwork merging expertise in data science and web development.
 - Conducted comprehensive market research and implemented data analysis to refine and validate strategies, revealing insights into sustainable market forces.
 - Summarized data insights and provided clear recommendations for market programs, focusing on "plastic-free" packaging and green ingredients for Halah Cosmetics, based on public databases.
 - Built prediction models for sustainable trends and utilized LLM to evaluate LUSH's performance based on customer reviews.
